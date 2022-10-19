@@ -11,7 +11,7 @@
 
 body {
     font-family: Cabin, sans-serif;
-    background-color: #a2aebb;
+    background-color: #dfe0e2;
     color: #071013;
     font-weight: 400;
 }
@@ -19,12 +19,12 @@ body {
 
 h1, h2, h3, h4{
     font-family: Ubuntu, sans-serif;
-    font-size: 200%;
-    color:#071013;
+    color:#23b5d3;
 }
 
 #logo {
     float: left;
+    font-size: 250%;
     margin-left: 50px;
     margin-top: 20px;
 }
@@ -32,14 +32,23 @@ h1, h2, h3, h4{
 
 #navbar {
     float: right;
+    font-size: 125%;
     margin-right: 30px;
     margin-top: 20px;
     color: inherit;
-
 }
 
-#navbar > li {
+#navbar li {
     display: inline;
     margin: 5px;
     list-style-type: none;
+}
+
+#navbar a {
+    text-decoration: none;
+    color:inherit;
+}
+
+#navbar a:hover {
+    color:#23b5d3;
 }
