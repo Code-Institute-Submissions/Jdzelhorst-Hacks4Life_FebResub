@@ -1,0 +1,45 @@
+/* Google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Cabin&family=Ubuntu&display=swap');
+
+/* General rules */
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+    font-family: Cabin, sans-serif;
+    background-color: #a2aebb;
+    color: #071013;
+    font-weight: 400;
+}
+/* Logo and headings */
+
+h1, h2, h3, h4{
+    font-family: Ubuntu, sans-serif;
+    font-size: 200%;
+    color:#071013;
+}
+
+#logo {
+    float: left;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+/* Navigation menu */
+
+#navbar {
+    float: right;
+    margin-right: 30px;
+    margin-top: 20px;
+    color: inherit;
+
+}
+
+#navbar > li {
+    display: inline;
+    margin: 5px;
+    list-style-type: none;
+}
