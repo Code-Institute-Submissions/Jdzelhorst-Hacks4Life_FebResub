@@ -3,7 +3,8 @@
 - [User Experience](#user-experience)
   * [Initial Discussion](#initial-discussion)
   * [User Stories](#user-stories)
-  * [Design Choices](#design-choices)
+- [Design](#design)
+  * [Colours](#colours)
   * [Wireframes](#wireframes)
 
 # User Experience
@@ -21,9 +22,42 @@ Due to the discussion of which lifehack is more useful than the other, Hacks4Lif
 ## User Stories
 
 ### Client Goals
-* 
+* To have a readable and an responsive website 
+* To teach users genuinely useful lifehacks
+* To allow users to give feedback on the showcased lifehacks
+* To allow users to send their own lifehacks 
+
 ### First Time Visitor Goals
+* I want to know what Hacks4Life is
+* I want to learn the most useful lifehacks
+* I want to know where to find Hacks4Life on social media
+* I want an easy to navigate website
 
 ### Returning Visitor Goals
+* I want to see an updated website with new useful lifehacks
+* I want to contact Hacks4Life to contribute to the content
+* I want to contact Hacks4Life to comment on the content
 
 ### Frequent Visitor Goals
+* I want to see new content with new lifehacks
+* I want to know if my suggested content is posted on the site
+
+---
+
+# Design
+## Colours
+![Hacks4Life Colour Palette](wireframes/hacks4life-color-palette.png)
+The website uses a colour palette reaching from Rich Black to Gainsboro (lightly grey white) with 3 shades of blue to give the website a light theme. The colour palette was created using the [Coolors](https://coolors.co/) website.
+
+## Typography
+[Google fonts](https://fonts.google.com/) was used for the following fonts:
+* Ubuntu is used for the headings. It's a sans-serif font.
+* Cabin is used for the paragraphs. It's also a sans-serif font.
+
+## Imagery
+
+## Wireframes
+These wireframes were created using [Balsamiq Wireframes](https://balsamiq.com/wireframes/)
+* [Computer screen Wireframe](https://github.com/Jdzelhorst/Hacks4Life/blob/main/wireframes/hacks4life-computer-screen.png)
+* [Tablet screen Wireframe](https://github.com/Jdzelhorst/Hacks4Life/blob/main/wireframes/hacks4life-tablet-screen.png)
+* [Phone screen Wireframe](https://github.com/Jdzelhorst/Hacks4Life/blob/main/wireframes/hacks4life-phone-screen.png)
