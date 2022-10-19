@@ -61,3 +61,6 @@ These wireframes were created using [Balsamiq Wireframes](https://balsamiq.com/w
 * [Computer screen Wireframe](https://github.com/Jdzelhorst/Hacks4Life/blob/main/wireframes/hacks4life-computer-screen.png)
 * [Tablet screen Wireframe](https://github.com/Jdzelhorst/Hacks4Life/blob/main/wireframes/hacks4life-tablet-screen.png)
 * [Phone screen Wireframe](https://github.com/Jdzelhorst/Hacks4Life/blob/main/wireframes/hacks4life-phone-screen.png)
+
+## Credentials
+* https://www.pexels.com/search/lifehack/
