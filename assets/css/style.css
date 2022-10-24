@@ -76,7 +76,6 @@ h1 {
     font-size: 125%;
     font-family: Ubuntu, sans-serif;
     text-transform: capitalize;
-    letter-spacing: 2px;
     width: 100%;
     bottom: 25%;
     left: 10%;
@@ -85,4 +84,18 @@ h1 {
 
 #slogan h2{
     margin-bottom: 50px;
+}
+
+/* Intro */
+
+#intro {
+    height: 300px;
+}
+
+#who-are-we {
+    float: left;
+}
+
+#why-us {
+    float: right;
 }
