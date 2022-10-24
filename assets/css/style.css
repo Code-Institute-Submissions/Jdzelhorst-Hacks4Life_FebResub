@@ -58,15 +58,15 @@ h1, h2, h3, h4{
 
 /* Eyecatcher and Slogan */
 
-/* #eyecatcher {
+#eyecatcher {
     height: 600px;
     width: 100%;
     position: relative;
     overflow: hidden;
-} */
+}
 
-#eyecatcher-image {
-    width: 70%;
-    height: auto;
-    padding: 0% 15% 0 15%;
+#background-eyecatcher {
+    width: auto;
+    height: 600px;
+    background: url('../images/hacks4life-homepage-eyecatcher3.jpg') no-repeat center center;
 }
