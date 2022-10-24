@@ -63,4 +63,4 @@ These wireframes were created using [Balsamiq Wireframes](https://balsamiq.com/w
 * [Phone screen Wireframe](https://github.com/Jdzelhorst/Hacks4Life/blob/main/wireframes/hacks4life-phone-screen.png)
 
 ## Credentials
-* https://www.pexels.com/search/lifehack/
+* https://pikwizard.com/photo/happy-businessman-holding-smart-phone-against-green-background/c972f265ab0010274338ac90aeaeda52
