@@ -173,7 +173,7 @@ h1, h2, h3, h4 {
 
 #videos {
     padding-top: 50px;
-    height: auto;
+    height: 800px;
     width: 100%;
 }
 
@@ -235,3 +235,35 @@ h1, h2, h3, h4 {
 
 /* Contact form */
 
+#contact {
+    height: 600px;
+    width: 100%;
+    position: relative;
+}
+
+#background-contact {
+    width: 100%;
+    height: 600px;
+    background: url('../images/contact-us-background.jpg') no-repeat center;
+    background-size: cover;
+}
+
+#contact-heading {
+    float: left;
+    margin-top: 25px;
+    margin-left: 10%;
+    position: absolute; 
+    line-height: 200px;
+    width: auto;
+    height: auto;
+}
+
+#contact-form {
+    float: right;
+    margin-top: 75px;
+    margin-right: 10%;
+    width: 450px;
+    height: 450px;
+    border: 1px solid;
+    border-radius: 8px;
+}
