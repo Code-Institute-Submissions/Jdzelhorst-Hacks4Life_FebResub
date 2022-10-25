@@ -75,7 +75,6 @@ h1, h2, h3, h4 {
 
 #slogan {
     font-size: 125%;
-    text-transform: capitalize;
     width: 100%;
     bottom: 25%;
     left: 10%;
@@ -97,7 +96,6 @@ h1, h2, h3, h4 {
 #about-us {
     padding-bottom: 50px;
     text-align: center;
-    text-transform: capitalize;
 }
 
 #who-are-we {
