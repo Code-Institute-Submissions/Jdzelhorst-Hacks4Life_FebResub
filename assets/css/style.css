@@ -19,6 +19,7 @@ body {
 
 h1, h2, h3, h4 {
     font-family: Ubuntu, sans-serif;
+    text-transform: capitalize;
 }
 
 #logo {
@@ -169,3 +170,70 @@ h1, h2, h3, h4 {
     text-align: center;
     text-transform: capitalize;
 }
+
+/* Videos */
+
+#videos {
+    padding-top: 50px;
+    height: auto;
+    width: 100%;
+}
+
+#video-heading {
+    text-align: center;
+    text-transform: capitalize;
+    padding-bottom: 100px;
+}
+
+#video-and-text {
+    box-sizing: border-box;
+}
+.video-left {
+    float: left;
+    margin-left: 5%;
+}
+
+.video-right {
+    float: right;
+    margin-right: 5%;
+}
+
+.video-container {
+    position: relative;
+    display: block;
+    width: 40%;
+    height: auto;
+    padding: 0% 0% 21.04%; 
+    /* 21.04 % to keep the 16:9 video size relative to the width */
+    margin-bottom: 25px;
+}
+
+.video-container iframe {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.video-text {
+    position: relative;
+    display: block;
+    width: 45%;
+    height: 300px;
+    padding-top: 25px;
+
+}
+
+.video-text h3 {
+    padding-bottom: 10px;
+}
+
+#text-left {
+    text-align: right;
+}
+
+#text-right {
+    text-align: left;
+}
+
+/* Contact form */
+
