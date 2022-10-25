@@ -89,15 +89,24 @@ h1, h2, h3, h4 {
 
 #intro {
     height: 300px;
-    padding-top: 75px;
+    padding-top: 100px;
+    padding-bottom: 150px;
+}
+
+#about-us {
+    padding-bottom: 50px;
+    text-align: center;
+    text-transform: capitalize;
 }
 
 #who-are-we {
+    padding-top: 100px;
     float: left;
     margin-left: 20%;
 }
 
 #why-us {
+    padding-top: 100px;
     float: right;
     margin-right: 20%;
 }
@@ -126,24 +135,24 @@ h1, h2, h3, h4 {
 }
 
 #top-5-heading {
-    padding-bottom: 50px;
+    padding-bottom: 100px;
+    padding-top: 50px;
     text-align: center;
     text-transform: capitalize;
 }
 
 #row-1 {
     display: flex;
-    flex: 30%;
     padding-bottom: 30px;
 }
 
 #row-2 {
     display: flex;
     width: 75%;
+    height: auto;
     margin-left: auto;
     margin-right: auto;
 }
-
 
 .lifehack-image { 
     padding: 10px;
