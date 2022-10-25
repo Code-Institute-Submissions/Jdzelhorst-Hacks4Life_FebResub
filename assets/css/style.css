@@ -17,15 +17,15 @@ body {
 }
 /* Logo and headings */
 
-h1 {
+h1, h2, h3, h4 {
     font-family: Ubuntu, sans-serif;
-    color:#23b5d3;
 }
 
 #logo {
     float: left;
     font-size: 300%;
     margin: 20px 0 25px 75px;
+    color:#23b5d3;
 }
 /* Navigation menu */
 
@@ -74,7 +74,6 @@ h1 {
 
 #slogan {
     font-size: 125%;
-    font-family: Ubuntu, sans-serif;
     text-transform: capitalize;
     width: 100%;
     bottom: 25%;
@@ -90,12 +89,30 @@ h1 {
 
 #intro {
     height: 300px;
+    padding-top: 75px;
 }
 
 #who-are-we {
     float: left;
+    margin-left: 20%;
 }
 
 #why-us {
     float: right;
+    margin-right: 20%;
+}
+
+#why-us, #who-are-we {
+    width: 300px;
+    height: auto;
+    text-align: center;
+    font-size: 125%;
+}
+
+#why-us h3, #who-are-we h3 {
+    padding-bottom: 10px;
+}
+
+#why-us a {
+    color:#23b5d3;
 }
