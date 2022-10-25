@@ -66,3 +66,5 @@ These wireframes were created using [Balsamiq Wireframes](https://balsamiq.com/w
 * https://pikwizard.com/photo/happy-businessman-holding-smart-phone-against-green-background/c972f265ab0010274338ac90aeaeda52
 https://howtonestforless.com/20-amazing-diy-life-hacks/
 https://howtonestforless.com/20-organizing-life-hacks/
+https://www.youtube.com/watch?v=vws8zmRT_T8
+https://www.youtube.com/watch?v=pCTv9xHuPc8
