@@ -318,3 +318,30 @@ h1, h2, h3, h4 {
 
 /* social medias in footer */
 
+footer {
+    height: 150px;
+    background-color: #071013;
+    text-align: center;
+}
+
+#social-header {
+    color: #dfe0e2;
+    padding: 25px 0;
+}
+
+.social-accounts {
+    display: inline;
+}
+
+.social-accounts > li {
+    display: inline;
+    width: 20%;
+    margin: auto;
+}
+
+.social-accounts i {
+    font-size: 200%;
+    width: 20%;
+    margin: auto;
+    color: #dfe0e2;
+}
