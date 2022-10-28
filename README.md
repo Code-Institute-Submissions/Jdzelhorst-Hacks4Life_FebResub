@@ -66,7 +66,7 @@ These wireframes were created using [Balsamiq Wireframes](https://balsamiq.com/w
 The website was tested using the [W3C html validator](https://validator.w3.org/) for the html-code and [Css-validator from jigsaw](https://jigsaw.w3.org/css-validator/) for the css-code.
 
 ### HTML
-In the html-validator there were 8 errors in total:
+8 errors occured in the html-validator:
 
 #1: "Start tag seen without seeing a doctype first. Expected < !DOCTYPE html>".
 Possible cause: a rookie mistake, never to happen again.
