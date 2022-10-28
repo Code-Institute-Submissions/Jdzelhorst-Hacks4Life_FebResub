@@ -62,6 +62,34 @@ These wireframes were created using [Balsamiq Wireframes](https://balsamiq.com/w
 * [Tablet screen Wireframe](https://github.com/Jdzelhorst/Hacks4Life/blob/main/wireframes/hacks4life-tablet-screen.png)
 * [Phone screen Wireframe](https://github.com/Jdzelhorst/Hacks4Life/blob/main/wireframes/hacks4life-phone-screen.png)
 
+## Testing
+The website was tested using the [W3C html validator](https://validator.w3.org/) for the html-code and [Css-validator from jigsaw](https://jigsaw.w3.org/css-validator/) for the css-code.
+
+### HTML
+In the html-validator there were 8 errors in total:
+
+#1: "Start tag seen without seeing a doctype first. Expected < !DOCTYPE html>".
+Possible cause: a rookie mistake, never to happen again.
+Fix: Implemented the !Doctype element at the top of the html page.
+
+#2 and #3: "End tag section seen, but there were open elements" and "unclosed element div". (on line 46 and 55)
+Possible cause: I added the div element later on in the section and it seems I forgot the closing tag.
+Fix: Added a closing tag to the div on line 46
+
+#4 and #5: 2 time the "The frameborder attribute on the iframe element is obsolete. Use CSS instead." (on line 95 and 98)
+Possible cause: I copied the element from the "copy embed" function on youtube. The frameborder seems to be implemented by default.
+Fix: Removed the frameborder attributes on both iframe elements.
+
+#6: "Attribute type not allowed on element textarea at this point." (on line 122)
+Possible cause: Initially I implemented the text-type as input for the contact-form, I changed it to textarea to make the possible feedback message larger.
+Fix: Removed the type attribute from the textarea element in the contact-form
+
+#7 and #8: Two times "The value of the for attribute of the label element must be the ID of a non-hidden form control." (on line 114 and 116)
+Possible cause: I changed the IDs for the first and last name text-input in the contact-form and did not change the for attribute of the labels accordingly.
+Fix: Changed the for attributes of both labels to the proper ID.
+
+
+#
 ## Credentials
 * https://pikwizard.com/photo/happy-businessman-holding-smart-phone-against-green-background/c972f265ab0010274338ac90aeaeda52
 https://howtonestforless.com/20-amazing-diy-life-hacks/
