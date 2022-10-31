@@ -443,7 +443,7 @@ footer {
 /* Media Quaries */
     /* 320px screen width and down */
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 360px) {
     header a {
         text-decoration: none;}
 
