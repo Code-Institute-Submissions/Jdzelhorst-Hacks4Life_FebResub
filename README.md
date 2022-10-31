@@ -1,3 +1,11 @@
+# Hacks4Life
+Hacks4Life is a website for those who want to make their lives easier using simple lifehacks. Hacks4Life provides a monthly top 5 lifehacks to use on a daily base.
+
+To make Hacks4Life a community website, we implemented a contact us option. This way everyone can send their own lifehacks to Hacks4Life and all of it's users.
+
+![Am I Responsive?](../Hacks4Life/assets/images/am-i-responsive.png)
+
+---
 
 # Table of Content
 - [User Experience](#user-experience)
@@ -64,7 +72,10 @@ The website uses a colour palette reaching from Rich Black to Gainsboro (lightly
 * Cabin is used for the paragraphs. It's also a sans-serif font.
 
 ## Imagery
-
+* The background images were found on [Pikwizard](https://pikwizard.com/)
+* The lifehack images were found on [How to nest for less](https://howtonestforless.com/)
+* The videos were found on [Youtube](https://youtube.com/)
+* The social media buttons were found on [Fontawesome](https://fontawesome.com/)
 
 ## Wireframes
 These wireframes were created using [Balsamiq Wireframes](https://balsamiq.com/wireframes/)
@@ -162,18 +173,13 @@ Possible cause: I made a typo.
 Fix: Added the second l for small.
 
 ### Accessibility
-I tested the accesibility of the site with lighthouse these were the results:
+I tested the accesibility of the site with the lighthouse function in devtools, these were the results:
 
+![Lighthouse test](../Hacks4Life/assets/images/lighthouse-test.png)
 
+### Known bugs
+* There are no known bugs at the moment.
 
-
-
-
-#
 ## Credentials
-* https://pikwizard.com/photo/happy-businessman-holding-smart-phone-against-green-background/c972f265ab0010274338ac90aeaeda52
-https://howtonestforless.com/20-amazing-diy-life-hacks/
-https://howtonestforless.com/20-organizing-life-hacks/
-https://www.youtube.com/watch?v=vws8zmRT_T8
-https://www.youtube.com/watch?v=pCTv9xHuPc8
-https://www.packtoiran.com/media/20190703-190052-2711.jpg
+### Mentor
+* I would like to thank my mentor Jubril Akolade for helping me through this project and his helpful feedback.
