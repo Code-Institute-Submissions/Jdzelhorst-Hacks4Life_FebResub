@@ -189,6 +189,7 @@ I tested the accesibility of the site with the lighthouse function in devtools, 
   - From the source section drop-down menu, choose the main branch.
   - Once the main branch is selected, the page has provided the link to the completed website.
 * This the live link
+
 ## Credits
 ### Mentor
 * I would like to thank my mentor Jubril Akolade for helping me through this project and his helpful feedback.
