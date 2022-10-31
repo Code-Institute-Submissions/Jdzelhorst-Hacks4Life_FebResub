@@ -23,6 +23,8 @@ To make Hacks4Life a community website, we implemented a contact us option. This
   * [Html](#html)
   * [CSS](#css)
   * [Accessibility](#accessibility)
+  * [Known Bugs](#known-bugs)
+- [Credits](#credits)
 
 # User Experience
 
@@ -180,6 +182,6 @@ I tested the accesibility of the site with the lighthouse function in devtools, 
 ### Known bugs
 * There are no known bugs at the moment.
 
-## Credentials
+## Credits
 ### Mentor
 * I would like to thank my mentor Jubril Akolade for helping me through this project and his helpful feedback.
