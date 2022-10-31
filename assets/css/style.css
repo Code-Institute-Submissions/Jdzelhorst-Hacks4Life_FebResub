@@ -428,7 +428,7 @@ footer {
         font-size: 200%;
     }
 
-    #logo a {
+    header a {
         text-decoration: none;
     }
         
@@ -441,9 +441,9 @@ footer {
 }
 
 /* Media Quaries */
-    /* 320px screen width and down */
+    /* 400px screen width and down */
 
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 400px) {
     header a {
         text-decoration: none;}
 
