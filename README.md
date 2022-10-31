@@ -178,7 +178,7 @@ Fix: Added the second l for small.
 ### Accessibility
 I tested the accesibility of the site with the lighthouse function in devtools, these were the results:
 
-![Lighthouse test](../Hacks4Life/assets/images/lighthouse-test.png)
+![Lighthouse test](assets/images/lighthouse-test.png)
 
 ### Known bugs
 * There are no known bugs at the moment.
@@ -186,9 +186,9 @@ I tested the accesibility of the site with the lighthouse function in devtools, 
 ## Deployment
 * This website was deployed to GitHub pages. The steps to deploy are:
   - In the GitHub repository, navigate to the Settings tab.
-  - From the source section drop-down menu, choose the main branch.
-  - Once the main branch is selected, the page has provided the link to the completed website.
-* This the live link
+  - From settings click on "Pages" on the left.
+  - Here we select the main branch and click save. 
+* This the live [Link](https://jdzelhorst.github.io/Hacks4Life/)
 
 ## Credits
 ### Mentor
