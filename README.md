@@ -5,7 +5,12 @@
   * [User Stories](#user-stories)
 - [Design](#design)
   * [Colours](#colours)
+  * [Typography](#typography)
   * [Wireframes](#wireframes)
+  * [Imagery](#imagery)
+- [Features](#features)
+  * [Existing Features](#existing-features)
+  * [Future Features](#future-features)
 
 # User Experience
 
@@ -61,6 +66,50 @@ These wireframes were created using [Balsamiq Wireframes](https://balsamiq.com/w
 * [Computer screen Wireframe](https://github.com/Jdzelhorst/Hacks4Life/blob/main/wireframes/hacks4life-computer-screen.png)
 * [Tablet screen Wireframe](https://github.com/Jdzelhorst/Hacks4Life/blob/main/wireframes/hacks4life-tablet-screen.png)
 * [Phone screen Wireframe](https://github.com/Jdzelhorst/Hacks4Life/blob/main/wireframes/hacks4life-phone-screen.png)
+
+---
+
+# Features
+## Existing Features
+
+### The Navigation Bar
+* Featured on the top of the page, with the logo in the top left corner and the navigation to the other sections in the top right corner.
+* The navigation bar has the following links: Home, About us, Top 5 this month, Extra Videos and Contact Us.
+* The navigation bar is fully responsive and changes colour when hoovered over them.
+![Navigation Bar](../Hacks4Life/assets/images/nav-bar.png)
+
+### The Eyecatcher
+* Featured directly below the navigation bar is the eyecatcher image with our slogan
+* The eyecatchers purpose is to the user excited for the content of this site.
+![Eyecatcher](../Hacks4Life/assets/images/eyecatcher.png)
+
+### About Us Section
+* This section is implemented to inform the user who we are and why the user should choose us.
+* This information is explained in 2 small parapgraphs. Plain and simple to keep the user enthousiastic.
+* The why choose us paragraph has a link to directly go to the contact form.
+![About us](../Hacks4Life/assets/images/about-us-section.png)
+
+### Top 5 Images this month
+* This is the core section of the site. Here is the main content found for the user.
+* This section consist of 5 images chosen by the admins as the 5 best lifehacks of the month. These images are to be changed on a monthly base.
+![Top 5 images 1](../Hacks4Life/assets/images/top-5-images-1.png)
+![Top 5 images 2](../Hacks4Life/assets/images/top-5-images-2.png)
+
+### Extra Videos
+* This section features 2 extra videos with extra information next to it in a seperate paragraph
+* The purpose of this section is to give our users more information and more fun lifehacks to use.
+![Extra Videos](../Hacks4Life/assets/images/extra-videos.png)
+
+### Contact us
+* This section features a contact form for users to send their own lifehacks to us. So we can use those for future monthly top 5's
+* The user can also just send us feedback on the lifehacks we have posted on our site. It's not required to send their own lifehack.
+![Contact us](../Hacks4Life/assets/images/contact-us.png)
+
+### Footer
+* The footer features our social media networks. From left to right: Twitter, Facebook, Instagram and Youtube
+* The icons used are links to the separate websites of said social media platforms.
+![Footer](../Hacks4Life/assets/images/footer.png)
+
 
 ## Testing
 The website was tested using the [W3C html validator](https://validator.w3.org/) for the html-code and [Css-validator from jigsaw](https://jigsaw.w3.org/css-validator/) for the css-code.

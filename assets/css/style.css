@@ -215,7 +215,7 @@ h1, h2, h3, h4 {
 }
 
 .video-text {
-    width: 40%;
+    width: 40%; 
     height: auto;
     margin-top: 50px;
     margin-bottom: 50px;
@@ -421,7 +421,7 @@ footer {
 /* Media Quaries */
     /* 768px screen width and down (phone width) */
 
- @media screen and (max-width: 320px) {
+ @media screen and (max-width: 600px) {
     #logo {
         margin: 25px 25% 25 25%;
         line-height: normal;
