@@ -11,6 +11,10 @@
 - [Features](#features)
   * [Existing Features](#existing-features)
   * [Future Features](#future-features)
+- [Testing](#testing)
+  * [Html](#html)
+  * [CSS](#css)
+  * [Accessibility](#accessibility)
 
 # User Experience
 
@@ -61,6 +65,7 @@ The website uses a colour palette reaching from Rich Black to Gainsboro (lightly
 
 ## Imagery
 
+
 ## Wireframes
 These wireframes were created using [Balsamiq Wireframes](https://balsamiq.com/wireframes/)
 * [Computer screen Wireframe](https://github.com/Jdzelhorst/Hacks4Life/blob/main/wireframes/hacks4life-computer-screen.png)
@@ -110,6 +115,10 @@ These wireframes were created using [Balsamiq Wireframes](https://balsamiq.com/w
 * The icons used are links to the separate websites of said social media platforms.
 ![Footer](../Hacks4Life/assets/images/footer.png)
 
+## Future Features
+### Archive section
+* The archive section is yet to be implemented. But it's core purpose is to show the user all the past monthly top 5 lifehack images. 
+* The archive section is to be a seperate page with it's own link in the navigation bar. 
 
 ## Testing
 The website was tested using the [W3C html validator](https://validator.w3.org/) for the html-code and [Css-validator from jigsaw](https://jigsaw.w3.org/css-validator/) for the css-code.
@@ -136,6 +145,28 @@ Fix: Removed the type attribute from the textarea element in the contact-form
 #7 and #8: Two times "The value of the for attribute of the label element must be the ID of a non-hidden form control." (on line 114 and 116)
 Possible cause: I changed the IDs for the first and last name text-input in the contact-form and did not change the for attribute of the labels accordingly.
 Fix: Changed the for attributes of both labels to the proper ID.
+
+### CSS
+3 erros occured in the css-validator:
+
+#1 "Value Error : line-height none is not a line-height value : none"
+Possible cause: I wanted to change the line-height in a media quary to override the existing line-height rule.
+Fix: Changed the "none" value to "0".
+
+#2 "Value Error : margin only 0 can be a unit. You must put a unit after your number : 25px 25% 25 25%"
+Possible cause: I forgot the px value in the 3rd value
+Fix: Added the px unit on the 3rd margin value.
+
+#3 "Value Error : font-size smal is not a font-size value : smal"
+Possible cause: I made a typo.
+Fix: Added the second l for small.
+
+### Accessibility
+I tested the accesibility of the site with lighthouse these were the results:
+
+
+
+
 
 
 #
