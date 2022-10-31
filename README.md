@@ -105,7 +105,7 @@ These wireframes were created using [Balsamiq Wireframes](https://balsamiq.com/w
 * This section is implemented to inform the user who we are and why the user should choose us.
 * This information is explained in 2 small parapgraphs. Plain and simple to keep the user enthousiastic.
 * The why choose us paragraph has a link to directly go to the contact form.
-![About us](images/about-us-section.png)
+![About us](https://github.com/Jdzelhorst/Hacks4Life/blob/main/assets/images/about-us-section.png)
 
 ### Top 5 Images this month
 * This is the core section of the site. Here is the main content found for the user.
