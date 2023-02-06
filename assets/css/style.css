@@ -125,6 +125,7 @@ h1, h2, h3, h4 {
 
 #why-us a {
     color:#23b5d3;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
 
 /* Top 5 images */
